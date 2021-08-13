@@ -1,2 +1,2 @@
-# certificates
+# CERTIFICATES
 Certificates of completed online courses
